@@ -3,7 +3,7 @@
 
 This repository corresponds with the [tutorial of the same name](https://2019.pycon.ca/talks/talk-114/) at PyCon Canada 2019. For questions and comments, email me at [kotowick@imperative.systems](mailto:kotowick@imperative.systems).
 
-###Installation:
+### Installation
 
 This code has only been tested on Python 3.7, although it will almost certainly work with many other 3.X versions of Python.
 
